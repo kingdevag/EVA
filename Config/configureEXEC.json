@@ -11,7 +11,7 @@
   },
   {
    "optionDest": "onefile",
-   "value": false
+   "value": true
   },
   {
    "optionDest": "console",
@@ -19,7 +19,7 @@
   },
   {
    "optionDest": "icon_file",
-   "value": "C:/Users/jarma/Documents/code/python/Virtual Asistent/app/Cicon.ico"
+   "value": "C:/Users/jarma/Documents/code/python/Virtual Asistent/src/resources/Cicon.ico"
   },
   {
    "optionDest": "name",
@@ -71,7 +71,7 @@
   },
   {
    "optionDest": "datas",
-   "value": "C:/Users/jarma/Documents/code/python/Virtual Asistent/app/Cicon.ico;."
+   "value": "C:/Users/jarma/Documents/code/python/Virtual Asistent/src/resources/Cicon.ico;."
   }
  ],
  "nonPyinstallerOptions": {

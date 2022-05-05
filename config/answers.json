@@ -1,0 +1,96 @@
+{
+    "ES": {
+        "Reproduce": [
+            "Reproduciendo ",
+            "Voy a reproducir ",
+            "Reproduzcamos! ",
+            "Eh reproducido "
+        ],
+        "Captura de pantalla": [
+            "Tomando captura de pantalla.",
+            "Voy a tomar una captura de pantalla.",
+            "Capturando pantalla.",
+            "Captura de pantalla tomada"
+        ],
+        "Busca": [
+            "Buscando ",
+            "Voy a buscar ",
+            "Busque ",
+            "Vamos a buscar ",
+            "Buscare ",
+            "Buscaremos "
+        ],
+        "Hora": [
+            "Actualmente son las ",
+            "Son las ",
+            "En este momento son las ",
+            "Las ",
+            "Creo que son las",
+            " ",
+            "Segun yo son las ",
+            "No estoy segura pero creo que son las "
+        ],
+        "Salir": [
+            "Saliendo...",
+            "Adios...",
+            "Me voy...",
+            "Me tengo que ir...",
+            "Hasta la proxima!"
+        ],
+        "Me llamo": [
+            "Me llamo ",
+            "Mi nombre es ",
+            "Soy ",
+            "Un gusto conozerte, Soy ",
+            "Soy ",
+            "Me dicen ",
+            "Mis amigos me dicen ",
+            "Me llamaron ",
+            "Soy una IA creada por OpenAI y KingAG llamada ",
+            "Me puedes llamar "
+        ],
+        "Enviar mensaje": [
+            "Enviando mensaje a ",
+            "Voy a enviar ese mensaje a ",
+            "Enviemos ese mensaje!",
+            "Vamos a enviar ese mensaje a ",
+            "Voy a tratar de no leer ese mensaje, Pero no prometo nada"
+        ],
+        "Abre": [
+            "Voy a abrir ",
+            "Abriendo ",
+            "Voy a tratar de abrir ",
+            "Tratando de abrir ",
+            "Abrire ",
+            "Iniciando ",
+            "Tratando de iniciar ",
+            "mostrando"
+        ],
+        "SVolumen": [
+            "Subiendo volumen",
+            "Aumentando volumen",
+            "Subiendo el volumen",
+            "Aumentando el volumen",
+            "Agregando Volumen",
+            "Agregando el volumen"
+        ],
+        "BVolumen": [
+            "Bajando volumen",
+            "Disminullendo volumen",
+            "Bajando el volumen",
+            "Disminullendo el volumen",
+            "Quitando volumen",
+            "Quitando el volumen"
+        ]
+    },
+    "EN": {
+        "Screenshot": [
+            "",
+            ""
+        ],
+        "Exit": [
+            "",
+            ""
+        ]
+    }
+}

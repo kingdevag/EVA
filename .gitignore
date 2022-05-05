@@ -1,0 +1,11 @@
+__pycache__
+test.py
+screenshot.png
+logs.log
+dates.db
+start.config
+account.json
+prompt.txt
+env
+env\
+env/
